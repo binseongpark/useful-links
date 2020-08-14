@@ -6,6 +6,8 @@
 - https://helloworldjavascript.net/pages/285-async.html - JS 가이드
 
 ##### boilerplates
+- https://github.com/react-boilerplate/react-boilerplate - react, redux
+- https://github.com/flexdinesh/react-redux-boilerplate - react, redux
 - https://github.com/Armour/express-webpack-react-redux-typescript-boilerplate - react-ts-express
 - https://github.com/rokoroku/react-redux-typescript-boilerplate - react-ts-redux
 - https://github.com/vikpe/react-webpack-typescript-starter - react-ts-webpack
