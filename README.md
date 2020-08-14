@@ -18,6 +18,8 @@
 - https://github.com/ayepRahman/react-apollo-graphql-boilerplate - typescript, react-apollo
 - https://github.com/MacKentoch/react-redux-graphql-apollo-bootstrap-webpack-starter - redux, react-apollo
 - https://github.com/arvindr21/react-redux-apollo-graphl-mongodb-boilerplate - redux, react-apollo
+- https://github.com/nutstick/typescript-react-apollo-starter-kit
+- https://github.com/adenh93/react-graphql-typescript-boilerplate
 
 ##### docs
 - https://www.apollographql.com/docs/react/ - apollographql docs
