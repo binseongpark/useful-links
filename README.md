@@ -12,7 +12,7 @@
 - https://github.com/microsoft/TypeScript-React-Starter - react, redux, typescript
 - https://github.com/react-boilerplate/react-boilerplate-cra-template - react, typescript, webpack, cra
 <!-- react-apollo -->
-- https://github.com/the-road-to-graphql/fullstack-apollo-react-boilerplate- javascript, react-apollo
+- https://github.com/the-road-to-graphql/fullstack-apollo-react-boilerplate - javascript, react-apollo
 - https://github.com/graphql-boilerplates/react-fullstack-graphql - javascript, react-apollo
 - https://github.com/howtographql/react-apollo - howtographql example
 - https://github.com/ayepRahman/react-apollo-graphql-boilerplate - typescript, react-apollo
