@@ -22,6 +22,22 @@
 - https://github.com/nutstick/typescript-react-apollo-starter-kit
 - https://github.com/adenh93/react-graphql-typescript-boilerplate
 
+##### selection
+###### react, redux
+- https://github.com/react-boilerplate/react-boilerplate
+- https://github.com/flexdinesh/react-redux-boilerplate
+###### react, redux, typescript
+- https://github.com/react-boilerplate/react-boilerplate-cra-template
+- https://github.com/microsoft/TypeScript-React-Starter
+- https://github.com/rokoroku/react-redux-typescript-boilerplate
+###### react-apollo
+- https://github.com/ayepRahman/react-apollo-graphql-boilerplate
+- https://github.com/howtographql/react-apollo
+- https://github.com/graphql-boilerplates/react-fullstack-graphql
+- https://github.com/adenh93/react-graphql-typescript-boilerplate
+###### react, redux, react-apollo
+- https://github.com/arvindr21/react-redux-apollo-graphl-mongodb-boilerplate
+
 ##### docs
 - https://www.apollographql.com/docs/react/ - apollographql docs
 - https://graphql-kr.github.io/learn/ - graphql-kr
