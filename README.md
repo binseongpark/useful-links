@@ -5,6 +5,7 @@
 - https://material.io/components/ - 디자인 가이드
 - https://helloworldjavascript.net/pages/285-async.html - JS 가이드
 - https://serviceworke.rs/ - service worker cookbook
+- https://typescript-kr.github.io/ - 타입스크립트 한글문서
 
 ##### boilerplates
 - https://github.com/react-boilerplate/react-boilerplate - react, redux
