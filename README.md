@@ -10,6 +10,7 @@
 - https://github.com/hasura/learn-graphql - hasura github
 - https://github.com/apollographql/fullstack-tutorial - apollographql github tutorial
 - https://github.com/dev4us/Uber_dev4us - typescript, graphql fullstack
+- https://github.com/dotansimha/graphql-code-generator - graphql.code generator
 
 ##### boilerplates
 - https://github.com/react-boilerplate/react-boilerplate - react, redux
