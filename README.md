@@ -11,6 +11,7 @@
 - https://github.com/apollographql/fullstack-tutorial - apollographql github tutorial
 - https://github.com/dev4us/Uber_dev4us - typescript, graphql fullstack
 - https://github.com/dotansimha/graphql-code-generator - graphql.code generator
+- https://www.typescriptlang.org/tsconfig - tsconfig
 
 ##### boilerplates
 - https://github.com/react-boilerplate/react-boilerplate - react, redux
