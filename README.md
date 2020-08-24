@@ -30,6 +30,7 @@
 - https://github.com/arvindr21/react-redux-apollo-graphl-mongodb-boilerplate - redux, react-apollo
 - https://github.com/nutstick/typescript-react-apollo-starter-kit
 - https://github.com/adenh93/react-graphql-typescript-boilerplate
+- https://github.com/crazyfactory/ts-react-boilerplate - ts-react-redux
 
 ##### selection
 ###### react, redux
