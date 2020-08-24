@@ -12,6 +12,7 @@
 - https://github.com/dev4us/Uber_dev4us - typescript, graphql fullstack
 - https://github.com/dotansimha/graphql-code-generator - graphql.code generator
 - https://www.typescriptlang.org/tsconfig - tsconfig
+- https://codepen.io/gaearon/pen/wqvxGa?editors=0010 - error boundary example
 
 ##### boilerplates
 - https://github.com/react-boilerplate/react-boilerplate - react, redux
