@@ -16,6 +16,7 @@
 - https://github.com/microsoft/TypeScript/blob/master/lib/lib.dom.d.ts - lib.dom.d.ts
 - https://github.com/typescript-cheatsheets/react#reacttypescript-cheatsheets - React + TypeScript Chestsheets
 - https://github.com/laststance/create-react-app-typescript-todo-example-2020 - cra + ts
+- http://www.thesassway.com/ - sass articles
 
 ##### boilerplates
 - https://github.com/react-boilerplate/react-boilerplate - react, redux
